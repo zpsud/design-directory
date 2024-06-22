@@ -1,0 +1,1 @@
+# Design programming resources directory
