@@ -84,6 +84,10 @@
           logo: wallhalla.png
           url: https://wallhalla.com/
           description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 花瓣网
+          logo: https://huaban.com/img/touch-icon-iphone-retina.png
+          url: https://huaban.com/
+          description: 花瓣网, 设计师寻找灵感的天堂！图片素材领导者，帮你采集、发现网络上你喜欢的事物。你可以用它收集灵感,保存有用的素材,计划旅行,晒晒自己想要的东西
     - term: 字体资源
       links:
         - title: Google Font
